@@ -3,7 +3,6 @@ package singleton;
  *
  * @author jzw
  * @date 2020-10-21 22:23
- * @since cloud2.0
  */
 public class Singleton {
     // 创建一个Singleton的一个对象
